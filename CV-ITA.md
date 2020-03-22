@@ -31,7 +31,7 @@ Contratto a tempo indeterminato
 Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.
 
 Strumenti e linguaggi utilizzati:  
-*Javascript – Angular 8 e 9 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Team Foundation Server.  
+*Javascript – Angular 8 e 9 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Git.  
 L'architettura software del sistema distribuito è di tipo RESTful.*
 
 `01/11/2017 – 14/07/2019`  
