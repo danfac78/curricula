@@ -22,6 +22,18 @@ Voto finale: 41/60
 Esperienza lavorativa
 ---------------------
 
+`15/07/2019 – oggi`
+
+Developer per Pillo Labs S.r.L.
+
+Contratto a tempo indeterminato
+
+Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.
+
+Strumenti e linguaggi utilizzati:  
+*Javascript – Angular 8 e 9 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Team Foundation Server.  
+L'architettura software del sistema distribuito è di tipo RESTful.*
+
 `01/11/2017 – 14/07/2019`  
 
 Research & Development per Akronos s.r.l. C/o Siemens  
@@ -34,7 +46,7 @@ Integrazione con il framework dichiarativo Apollo. Stesura ed esecuzione degli u
 Per le operazioni di lettura e scrittura dati utilizzo il cloud di Amazon tramite chiamate REST.  
 
 Strumenti e linguaggi utilizzati:  
-*Javascript – AngularJS – Jasmine – npm – DevTools – HTML5/CSS – Team Foundation Server.
+*Javascript – AngularJS – Jasmine – npm – DevTools – HTML5/CSS – Team Foundation Server.  
 L'architettura software del sistema distribuito è di tipo RESTful.*
 
 `01/09/2015 –31/10/2017`  
