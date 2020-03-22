@@ -125,9 +125,8 @@ Strumenti e linguaggi utilizzati:
 Competenze apprese
 ------------------
 
-Linguaggi di programmazione/framework: *C# – .NET Framework – Javascript – AngularJS
-PHP – HTML/CSS – C++*  
-Strumenti: *Visual Studio – TFS – Windbg – Fiddler*  
+Linguaggi di programmazione/framework: *C# – .NET Framework – Javascript – Angular - Typescript - RXjs - AngularJS - PHP – HTML/CSS – C++*  
+Strumenti: *Visual Studio - VS Code – TFS – Windbg – Fiddler*  
 Database/data exchange: *Microsoft SQL Server – MYSql – Xml – Json – Amazon Web Services
 – RESTFul*  
 Skill: *Software development – Debug – Testing – Scrum*
