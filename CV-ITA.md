@@ -26,7 +26,7 @@ Esperienza lavorativa
 
 Developer per Pillo Labs S.r.L.
 
-Contratto a tempo indeterminato
+<!--- Contratto a tempo indeterminato -->
 
 Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.
 
@@ -38,7 +38,7 @@ L'architettura software del sistema distribuito è di tipo RESTful.*
 
 Research & Development per Akronos s.r.l. C/o Siemens  
 
-Contratto a tempo indeterminato  
+<!--- Contratto a tempo indeterminato -->
 
 Sviluppo di una single page application per la configurazione dati relativa alla misurazione dell'efficacia di un impianto industriale tramite OEE (Overall Equipment Effectiveness).  
 In dettaglio fornisco all'utente una modellizzazione grafica dello stato di un impianto in termini di mancata produzione (Time Model) e la successiva associazione agli stati inviati da campo (Reason Tree e Gantt chart).  
@@ -53,7 +53,7 @@ L'architettura software del sistema distribuito è di tipo RESTful.*
 
 Research & Development Delivery Service per Akronos s.r.l. c/o Siemens  
 
-Contratto a tempo indeterminato  
+<!--- Contratto a tempo indeterminato -->
 
 Mi occupo di analizzare i failure riportati dai clienti al Supporto Tecnico e preparando fix.  
 Mi avvalgo di vari strumenti sia lato server (windbg, procdump, Visual Studio) sia lato client (javascript debugger, fiddler e ) e per lo sviluppo principalmente Visual Studio.  
@@ -67,7 +67,7 @@ XML – Windbg – Procdump – Team Foundation Server – Javascript – JQuery
 
 Quality Assurance Engineer per Akronos s.r.l. c/o Siemens
 
-Contratto a tempo indeterminato
+<!--- Contratto a tempo indeterminato -->
 
 Il mio lavoro consiste nel progettare ed eseguire suite di test per applicativi web di automazione industriale.  
 I test sono svolti sia manualmente – principalmente quelli che riguardano lo sviluppo
@@ -80,7 +80,7 @@ Strumenti e linguaggi utilizzati:
 
 `2005 – 2010`
 
-Collaborazione come libero professionista
+<!--- Collaborazione come libero professionista -->
 
 Ho collaborato per la produzione di siti dinamici per vari clienti, tra cui il DINAV di Genova.  
 Ho redatto la struttura del DB, le stored procedure e parte delle pagine del sito.
@@ -92,7 +92,7 @@ Strumenti e linguaggi utilizzati:
 
 Software developer in ComputerStar s.a.s.
 
-Contratto di dipendente a tempo indeterminato
+<!--- Contratto di dipendente a tempo indeterminato -->
 
 Ho progettato un'applicazione web per la gestione delle minute di ruolo con tracciato CNC 290, un'applicazione web per la gestione telematica delle multe per il comune di Alassio, pagamenti online per CSI Piemonte con appoggio su Banca Sella.
 
@@ -103,7 +103,7 @@ Strumenti e linguaggi utilizzati:
 
 Software developer in ZeroDieci s.r.l
 
-Contratto di dipendente a progetto
+<!--- Contratto di dipendente a progetto -->
 
 Ho progettato l'architettura e codificato un CMS per l'inserimento di advertising in un sito di servizi al cittadino.
 
@@ -114,7 +114,7 @@ Strumenti e linguaggi utilizzati:
 
 Software developer in Selesta S.p.A.
 
-Contratto di dipendente a tempo indeterminato con apprendistato
+<!--- Contratto di dipendente a tempo indeterminato con apprendistato -->
 
 A valle di specifiche raccolte dai project manager sviluppavo, spesso dettagliando le funzionalità direttamente col cliente, applicativi per gestione di accesso/presenze/mensa su architetture basate su Zilog Z80 e programmate con linguaggio proprietario (Gauss) di derivazione da Pascal.  
 Fornivo supporto ai colleghi per la gestione delle transazioni raccolte dai terminali.
