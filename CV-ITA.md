@@ -28,7 +28,7 @@ Developer per Pillo Labs S.r.L.
 
 <!--- Contratto a tempo indeterminato -->
 
-Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.  
+Sviluppo di GUI per la gestione remota e l'analisi aggregata dei dati dei device, per uso interno e per i partner. Unit test per le suddutte GUI. Sviluppo il sito aziendale e di un tool a linea di comando per la gestione delle news.  
 Utilizzo di VM Kubuntu per sviluppo.
 
 Strumenti e linguaggi utilizzati:  
