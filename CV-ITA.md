@@ -28,7 +28,8 @@ Developer per Pillo Labs S.r.L.
 
 <!--- Contratto a tempo indeterminato -->
 
-Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.
+Sviluppo di tool interni e per i partner per la gestione remota e l'analisi aggregata dei dati dei device. Parallelamente ho sviluppato il sito aziendale. Preparato un tool a linea di comando per la gestione delle news.  
+Utilizzo di VM Kubuntu per sviluppo.
 
 Strumenti e linguaggi utilizzati:  
 *Javascript – Angular 8 e 9 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Git.  
