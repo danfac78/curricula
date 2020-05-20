@@ -28,7 +28,7 @@ Developer per Pillo Labs S.r.L.
 
 <!--- Contratto a tempo indeterminato -->
 
-Sviluppo di GUI per la gestione remota e l'analisi aggregata dei dati dei device, per uso interno e per i partner. Unit test per le suddutte GUI. Sviluppo il sito aziendale e di un tool a linea di comando per la gestione delle news.  
+Sviluppo di GUI per la gestione remota e per l'analisi dei dati aggregati dei device, per uso interno e per i partner. Unit test per le suddette GUI. Sviluppo del sito aziendale e di un tool a linea di comando per la gestione delle news.  
 Utilizzo di VM Kubuntu per sviluppo.
 
 Strumenti e linguaggi utilizzati:  
@@ -57,7 +57,7 @@ Research & Development Delivery Service per Akronos s.r.l. c/o Siemens
 <!--- Contratto a tempo indeterminato -->
 
 Mi occupo di analizzare i failure riportati dai clienti al Supporto Tecnico e preparando fix.  
-Mi avvalgo di vari strumenti sia lato server (windbg, procdump, Visual Studio) sia lato client (javascript debugger, fiddler e ) e per lo sviluppo principalmente Visual Studio.  
+Mi avvalgo di vari strumenti sia lato server (windbg, procdump, Visual Studio) sia lato client (javascript debugger, fiddler) e per lo sviluppo principalmente Visual Studio.  
 Attualmente sono impegnato in analisi di crash dump ottenuti dai server dei clienti, per debuggare bachi funzionali e legati a memory leak nel codice managed.  
 
 Strumenti e linguaggi utilizzati:  
