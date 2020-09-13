@@ -11,14 +11,6 @@ e-mail: d.facco.78@gmail.com
 Nazionalità: italiana  
 Data di nascita: 16/07/1978  
 
-Titolo di studio
-----------------
-
-Anno Scolastico 1992-1998, I.T.I.S. Ettore Majorana, via Salvador Allende, Genova  
-Diploma di maturità “Perito tecnico industriale ad indirizzo informatico”  
-Materie principali: informatica – sistemi d'automazione – elettronica  
-Voto finale: 41/60
-
 Esperienza lavorativa
 ---------------------
 
@@ -128,9 +120,16 @@ Competenze apprese
 
 Linguaggi di programmazione/framework: *C# – .NET Framework – Javascript – Angular - Typescript - RXjs - AngularJS - PHP – HTML/CSS – C++*  
 Strumenti: *Visual Studio - VS Code – TFS – Windbg – Fiddler*  
-Database/data exchange: *Microsoft SQL Server – MYSql – Xml – Json – Amazon Web Services
-– RESTFul*  
-Skill: *Software development – Debug – Testing – Scrum*
+Database/data exchange: *Microsoft SQL Server – MYSql – Xml – Json – Amazon Web Services – RESTFul*  
+Skill: *Software development – Debug – Testing – Scrum*  
+
+Titolo di studio
+----------------
+
+Anno Scolastico 1992-1998, I.T.I.S. Ettore Majorana, via Salvador Allende, Genova  
+Diploma di maturità “Perito tecnico industriale ad indirizzo informatico”  
+Materie principali: informatica – sistemi d'automazione – elettronica  
+Voto finale: 41/60  
 
 Formazione post-scolastica
 --------------------------
