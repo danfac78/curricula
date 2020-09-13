@@ -20,11 +20,11 @@ Developer per Pillo Labs S.r.L.
 
 <!--- Contratto a tempo indeterminato -->
 
-Sviluppo di GUI per la gestione remota e per l'analisi dei dati aggregati dei device, per uso interno e per i partner. Unit test per le suddette GUI. Sviluppo del sito aziendale e di un tool a linea di comando per la gestione delle news.  
-Utilizzo di VM Kubuntu per sviluppo.
+Sviluppo di GUI per la gestione remota e per l'analisi dei dati aggregati dei device, sia per uso interno che per i partner. Unit test per le suddette GUI. Sviluppo del sito aziendale e di un tool a linea di comando per la gestione delle news.  
+Utilizzo di  WSL2 VM Kubuntu per sviluppo.
 
 Strumenti e linguaggi utilizzati:  
-*Javascript – Angular 8 e 9 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Git.  
+*Javascript – Angular 8-10 – Typescript - RXjs - JQuery - Jasmine – npm – DevTools – HTML5/CSS – Bootstrap - VSCode - Git.  
 L'architettura software del sistema distribuito è di tipo RESTful.*
 
 `01/11/2017 – 14/07/2019`  
@@ -35,7 +35,7 @@ Research & Development per Akronos s.r.l. C/o Siemens
 
 Sviluppo di una single page application per la configurazione dati relativa alla misurazione dell'efficacia di un impianto industriale tramite OEE (Overall Equipment Effectiveness).  
 In dettaglio fornisco all'utente una modellizzazione grafica dello stato di un impianto in termini di mancata produzione (Time Model) e la successiva associazione agli stati inviati da campo (Reason Tree e Gantt chart).  
-Integrazione con il framework dichiarativo Apollo. Stesura ed esecuzione degli unit test per i servizi e direttive creati.  
+Integrazione con framework dichiarativo proprietario. Stesura ed esecuzione degli unit test per i servizi e direttive creati.  
 Per le operazioni di lettura e scrittura dati utilizzo il cloud di Amazon tramite chiamate REST.  
 
 Strumenti e linguaggi utilizzati:  
@@ -54,7 +54,7 @@ Attualmente sono impegnato in analisi di crash dump ottenuti dai server dei clie
 
 Strumenti e linguaggi utilizzati:  
 *SQLServer – IIS – Browser's Developer Tools – Visual Studio – C# - ASP.NET – CSS/HTML –
-XML – Windbg – Procdump – Team Foundation Server – Javascript – JQuery – Powershell.*
+XML – Windbg – Procdump – SoS2 – Team Foundation Server – Javascript – JQuery – Powershell.*
 
 `01/06/2008 – 31/10/2017`
 
