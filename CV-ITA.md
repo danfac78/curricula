@@ -136,4 +136,10 @@ Mi sono occupato della digitalizzazione di carte tematiche cartacee riguardanti 
 Il mio lavoro consisteva nel effettuare fotografie digitali delle carte per ottenerne dei tracciati vettoriali degli elementi salienti, ad esempio frane.
 
 `01/03/1999 – 28/05/1999`, Istituto Santi di Genova
-Ho frequentato un corso per Tecnico Geomatico, utilizzando Oracle Database, C++, Visual Basic, MicroStation95, ottenendo un attestato di qualifica professionale di secondo livello.
+Ho frequentato un corso per Tecnico Geomatico, utilizzando Oracle Database, C++, Visual Basic, MicroStation95, ottenendo un attestato di qualifica professionale di secondo livello.  
+
+---
+
+### _Trattamento dati personali_  
+
+_Autorizzo il trattamento dei miei dati personali presenti nel presente cv ai sensi dell’art. 13 del Decreto Legislativo 30 giugno 2003, n. 196 “Codice in materia di protezione dei dati personali” e dell’art. 13 del GDPR (Regolamento UE 2016/679)._
