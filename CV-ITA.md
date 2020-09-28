@@ -4,8 +4,9 @@
 
 Via Giovanni Amarena 14A/15 scala A  
 16143 - Genova, Italia  
-Telefono: 349/0894202  
-e-mail: d.facco.78@gmail.com  
+Telefono: 3490894202  
+e-mail: [d.facco.78@gmail.com](mailto:d.facco.78@gmail.com)  
+profilo linkedin: [linkedin.com/in/daniele-facco-48105625/](https://linkedin.com/in/daniele-facco-48105625)  
 Nazionalità: italiana  
 Data di nascita: 16/07/1978
 
