@@ -12,6 +12,19 @@ Data di nascita: 16/07/1978
 
 ## Esperienza lavorativa
 
+`11/01/2021 – oggi`
+
+Developer per Dedalus S.p.A.
+
+<!--- Contratto a tempo indeterminato -->
+
+Analisi di dump per inidividuare crash di w3wp, e fornire soluzione ottenendo miglioramento delle prestazioni di un ordine di grandezza.  
+Esecuzione di test manuali su precedente prodotto e correzione dei bachi e riscrittura del codice relativo alla gestione delle date.  
+A breve introduzione al nuovo prodotto basato su Angular.
+
+Strumenti e linguaggi utilizzati:  
+_ProcDump - WinDbg - Javascript – HTML - Visual Studio_
+
 `01/12/2020 – 24/12/2020`
 
 Developer per FOS S.r.L. C/o RINA S.p.A.
