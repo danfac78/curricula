@@ -12,7 +12,19 @@ Data di nascita: 16/07/1978
 
 ## Esperienza lavorativa
 
-`15/07/2019 – oggi`
+`01/12/2020 – 24/12/2020`
+
+Developer per FOS S.r.L. C/o RINA S.p.A.
+
+<!--- Contratto a tempo indeterminato -->
+
+Implementazione/integrazione di meccanismo di progress bar in loro prodotto preesistente per il monitoring delle navi. Integrazione in loro pipeline di build di unit test GUI e preparazione di alcune suite di unit test di esempio, con ampia descrizione dei concetti sottesi.
+
+Strumenti e linguaggi utilizzati:  
+_Javascript – Angular 8-10 – Typescript - RXjs - Jasmine – npm - Puppeteer - Chrome Headless – DevTools – HTML5/CSS – Bootstrap - VSCode - Git.  
+L'architettura software del sistema distribuito è di tipo RESTful._
+
+`15/07/2019 – 31/11/2020`
 
 Developer per Pillo Labs S.r.L.
 
