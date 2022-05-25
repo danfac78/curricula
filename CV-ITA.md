@@ -18,13 +18,16 @@ Developer per Dedalus S.p.A.
 
 <!--- Contratto a tempo indeterminato -->
 
-- Implementazione di frontend per la schedulazione degli ordini in ambito ospedaliero su infrastruttura a microservizi.  
-- Analisi di dump per inidividuare crash di w3wp, e fornire soluzione ottenendo miglioramento delle prestazioni di un ordine di grandezza.  
-- Esecuzione di test manuali su precedente prodotto e correzione dei bachi e riscrittura del codice relativo alla gestione delle date.  
+1. Implementazione di frontend per l'archiviazione di scansioni di documentazione medica.  
+1. Implementazione di frontend per la schedulazione degli ordini in ambito ospedaliero su infrastruttura a microservizi.  
+1. Analisi di dump per individuare crash di w3wp, e fornire soluzione ottenendo miglioramento delle prestazioni di un ordine di grandezza.  
+1. Esecuzione di test manuali su precedente prodotto e correzione dei bachi e riscrittura del codice relativo alla gestione delle date.  
 
 Strumenti e linguaggi utilizzati:  
-_IntelliJ IDEA - Visual Studio Code - Java - Maven - Doker - Angular_
-_ProcDump - WinDbg - Javascript – HTML - Visual Studio_
+1. _IntelliJ IDEA - Visual Studio Code - Angular - Typescript - RXjs - npm - Git - Kotlin - Gradle - Kubernetes - Okteto - Lens - VM Ubuntu remota - SSH_  
+1. _IntelliJ IDEA - Visual Studio Code - Java - Maven - Docker - Angular - WSL2_  
+1. _ProcDump - WinDbg - Visual Studio_  
+1. _Javascript – HTML– DevTools_
 
 `01/12/2020 – 24/12/2020`
 
