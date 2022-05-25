@@ -18,11 +18,12 @@ Developer per Dedalus S.p.A.
 
 <!--- Contratto a tempo indeterminato -->
 
-Analisi di dump per inidividuare crash di w3wp, e fornire soluzione ottenendo miglioramento delle prestazioni di un ordine di grandezza.  
-Esecuzione di test manuali su precedente prodotto e correzione dei bachi e riscrittura del codice relativo alla gestione delle date.  
-A breve introduzione al nuovo prodotto basato su Angular.
+- Implementazione di frontend per la schedulazione degli ordini in ambito ospedaliero su infrastruttura a microservizi.  
+- Analisi di dump per inidividuare crash di w3wp, e fornire soluzione ottenendo miglioramento delle prestazioni di un ordine di grandezza.  
+- Esecuzione di test manuali su precedente prodotto e correzione dei bachi e riscrittura del codice relativo alla gestione delle date.  
 
 Strumenti e linguaggi utilizzati:  
+_IntelliJ IDEA - Visual Studio Code - Java - Maven - Doker - Angular_
 _ProcDump - WinDbg - Javascript – HTML - Visual Studio_
 
 `01/12/2020 – 24/12/2020`
